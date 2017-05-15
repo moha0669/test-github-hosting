@@ -1,1 +1,1 @@
-alert{"javascript file is connected!"};
+alert("javascript file is connected!");
